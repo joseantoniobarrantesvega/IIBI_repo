@@ -4,4 +4,4 @@
 
 
 create table clientes (
-	nombre varchar(30) ) tablespace tmp;
+	nombre varchar(30) ) tablespace tmp:
